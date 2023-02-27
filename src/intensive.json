@@ -1,0 +1,32 @@
+[
+  {
+    "exercises": [63],
+    "description": ["пн"]
+  },
+
+  {
+    "exercises": [64],
+    "description": ["вт"]
+  },
+
+  {
+    "exercises": [65, 66, 67, 68, 69, 70],
+    "description": ["ср"]
+  },
+  {
+    "exercises": [71],
+    "description": ["чт"]
+  },
+  {
+    "exercises": [72],
+    "description": ["пт"]
+  },
+  {
+    "exercises": [73],
+    "description": ["сб"]
+  },
+  {
+    "exercises": [74],
+    "description": ["вс"]
+  }
+]
